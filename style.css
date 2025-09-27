@@ -1,0 +1,14 @@
+.my-button {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.my-button:hover {
+    background-color: royalblue;
+}
